@@ -1,2 +1,1 @@
-
-pytest -s -v -x -vv
+pytest -vv -s -q -x
