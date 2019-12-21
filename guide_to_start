@@ -1,5 +1,5 @@
 pytest -vv -s -q -x
 
+Commit after resolve conflict
 
-
-qCommit from TestBranch
+Commit from TestBranch
